@@ -1,0 +1,327 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Id": 1, "Distrikt": "Frederikssund", "Gruppenavn": "Mælkevejen", "Efternavn": "Vingaard", "Fornavn": "Lene", "Adresse": "Flintehøjen 28", "Mobil": "23 38 68 82", "Tider": "6.45 – 16.30\/15.45", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Birgit Holtegaard Bertelsen - tlf. 23 38 68 00", "UniqueId": "55FB9297-62EC-4760-BBBF-9A2A2A7AF33D", "UserId": null, "Dato": null, "Navn": "Lene Vingaard" }, "geometry": { "type": "Point", "coordinates": [ 12.078465285841672, 55.860346635680997 ] } },
+{ "type": "Feature", "properties": { "Id": 2, "Distrikt": "Frederikssund", "Gruppenavn": "Mælkevejen", "Efternavn": "Villumsen", "Fornavn": "Lykke", "Adresse": "Græse Bygade 2 B", "Mobil": "23 38 68 29", "Tider": "7.15 – 17.00\/16.15", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Birgit Holtegaard Bertelsen - tlf. 23 38 68 00", "UniqueId": "652B0B01-C29A-48D1-80AB-F4BDAC90E4A8", "UserId": null, "Dato": null, "Navn": "Lykke Villumsen" }, "geometry": { "type": "Point", "coordinates": [ 12.09284881658933, 55.860355032949165 ] } },
+{ "type": "Feature", "properties": { "Id": 3, "Distrikt": "Frederikssund", "Gruppenavn": "Mælkevejen", "Efternavn": "Juul Petersen", "Fornavn": "Camilla", "Adresse": "Kong Skjoldsvej 5", "Mobil": "23 38 68 67", "Tider": "6.45 – 16.30\/15.45", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Birgit Holtegaard Bertelsen - tlf. 23 38 68 00", "UniqueId": "5A263672-35C1-4ABB-A822-83408314EE57", "UserId": null, "Dato": null, "Navn": "Camilla Juul Petersen" }, "geometry": { "type": "Point", "coordinates": [ 12.057124382437578, 55.845803804422978 ] } },
+{ "type": "Feature", "properties": { "Id": 4, "Distrikt": "Frederikssund", "Gruppenavn": "Mælkevejen", "Efternavn": "Klitgaard Nielsen", "Fornavn": "Bente", "Adresse": "Lokesvej 1", "Mobil": "24 79 49 20", "Tider": "6.45 – 16.30\/15.45", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Birgit Holtegaard Bertelsen - tlf. 23 38 68 00", "UniqueId": "76D2CA92-D9F0-4760-87A0-2BE5EA72A26D", "UserId": null, "Dato": null, "Navn": "Bente Klitgaard Nielsen" }, "geometry": { "type": "Point", "coordinates": [ 12.057378677096281, 55.851224117943595 ] } },
+{ "type": "Feature", "properties": { "Id": 5, "Distrikt": "Frederikssund", "Gruppenavn": "Pluto", "Efternavn": "Berg", "Fornavn": "Anette", "Adresse": "Færgevej 67 St.", "Mobil": "23 38 68 11", "Tider": "6.45 – 16.30\/15.45", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Birgit Holtegaard Bertelsen - tlf. 23 38 68 00", "UniqueId": "481478FD-FBC5-445D-819F-92A3D11EE9B5", "UserId": null, "Dato": null, "Navn": "Anette Berg" }, "geometry": { "type": "Point", "coordinates": [ 12.051610270838987, 55.842762165810107 ] } },
+{ "type": "Feature", "properties": { "Id": 6, "Distrikt": "Frederikssund", "Gruppenavn": "Pluto", "Efternavn": "Jensen", "Fornavn": "Annemette", "Adresse": "Kastanie Alle 23", "Mobil": "23 38 68 39", "Tider": "7.15 – 17.00\/16.15", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Birgit Holtegaard Bertelsen - tlf. 23 38 68 00", "UniqueId": "D1A940AC-D84D-4384-A35E-438259810217", "UserId": null, "Dato": null, "Navn": "Annemette Jensen" }, "geometry": { "type": "Point", "coordinates": [ 12.073748692720196, 55.835624061630895 ] } },
+{ "type": "Feature", "properties": { "Id": 7, "Distrikt": "Frederikssund", "Gruppenavn": "Pluto", "Efternavn": "Mortensen", "Fornavn": "Mariann", "Adresse": "Kornvænget 155", "Mobil": "23 38 68 54", "Tider": "7.15 – 17.00\/16.15", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Birgit Holtegaard Bertelsen - tlf. 23 38 68 00", "UniqueId": "92767184-B513-448A-A997-DFC603AC9F98", "UserId": null, "Dato": null, "Navn": "Mariann Mortensen" }, "geometry": { "type": "Point", "coordinates": [ 12.084260200900655, 55.828758154500797 ] } },
+{ "type": "Feature", "properties": { "Id": 8, "Distrikt": "Frederikssund", "Gruppenavn": "Pluto", "Efternavn": "Kristensen", "Fornavn": "Inge", "Adresse": "Skoleparken 27", "Mobil": "23 38 68 41", "Tider": "6.30 – 16.15\/15.30", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Birgit Holtegaard Bertelsen - tlf. 23 38 68 00", "UniqueId": "71F72084-8D76-481B-BCDA-BFCC5C054C12", "UserId": null, "Dato": null, "Navn": "Inge Kristensen" }, "geometry": { "type": "Point", "coordinates": [ 12.087066035578513, 55.82223950167343 ] } },
+{ "type": "Feature", "properties": { "Id": 9, "Distrikt": "Frederikssund", "Gruppenavn": "Pluto", "Efternavn": "Højslet Larsen", "Fornavn": "Birte", "Adresse": "Vangedevej 4", "Mobil": "23 38 68 43", "Tider": "6.45 – 16.30\/15.45", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Birgit Holtegaard Bertelsen - tlf. 23 38 68 00", "UniqueId": "52B79819-20CB-4985-83E7-A7EFCE0A50D5", "UserId": null, "Dato": null, "Navn": "Birte Højslet Larsen" }, "geometry": { "type": "Point", "coordinates": [ 12.07513270090239, 55.827093315224026 ] } },
+{ "type": "Feature", "properties": { "Id": 10, "Distrikt": "Frederikssund", "Gruppenavn": "Pluto", "Efternavn": "Juel Sørensen", "Fornavn": "Mona", "Adresse": "Vestervej 52", "Mobil": "23 38 68 74", "Tider": "6.45 – 16.30\/15.45", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Birgit Holtegaard Bertelsen - tlf. 23 38 68 00", "UniqueId": "DAF0FB56-9DA9-4F78-8B78-D04EFF31C2D2", "UserId": null, "Dato": null, "Navn": "Mona Juel Sørensen" }, "geometry": { "type": "Point", "coordinates": [ 12.075855093055591, 55.824794406494277 ] } },
+{ "type": "Feature", "properties": { "Id": 11, "Distrikt": "Frederikssund", "Gruppenavn": "Solen", "Efternavn": "Tiedebøhl", "Fornavn": "Marlene", "Adresse": "Bakkevænget 13", "Mobil": "23 38 68 20", "Tider": "7.15 – 17.00\/16.15", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Anna Bjerg - tlf. 23 38 68 05", "UniqueId": "6A7C8F95-DA6F-4C1E-9276-C0AFA23A6E8B", "UserId": null, "Dato": null, "Navn": "Marlene Tiedebøhl" }, "geometry": { "type": "Point", "coordinates": [ 12.117013087624402, 55.797476973899251 ] } },
+{ "type": "Feature", "properties": { "Id": 12, "Distrikt": "Frederikssund", "Gruppenavn": "Solen", "Efternavn": "Jensen", "Fornavn": "Susanne", "Adresse": "Dyrlægegårds Alle 69", "Mobil": "23 38 68 46", "Tider": "7.15 – 17.00\/16.15", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Anna Bjerg - tlf. 23 38 68 05", "UniqueId": "393C6BCA-BBED-4DEF-98F6-276CE6EB79D7", "UserId": null, "Dato": null, "Navn": "Susanne Jensen" }, "geometry": { "type": "Point", "coordinates": [ 12.069026580679896, 55.822293201518413 ] } },
+{ "type": "Feature", "properties": { "Id": 13, "Distrikt": "Frederikssund", "Gruppenavn": "Solen", "Efternavn": "Nielsen", "Fornavn": "Heidi", "Adresse": "Dyrlægegårds Alle 114", "Mobil": "23 38 68 19", "Tider": "7.15 – 17.00\/16.15", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Anna Bjerg - tlf. 23 38 68 05", "UniqueId": "3982296E-D965-4BF7-8DF7-B5AE344F44F2", "UserId": null, "Dato": null, "Navn": "Heidi Nielsen" }, "geometry": { "type": "Point", "coordinates": [ 12.068232528075495, 55.823645247715056 ] } },
+{ "type": "Feature", "properties": { "Id": 14, "Distrikt": "Frederikssund", "Gruppenavn": "Solen", "Efternavn": "Haag", "Fornavn": "Wivian", "Adresse": "Lerager 55", "Mobil": "23 38 68 68", "Tider": "6.45 – 16.30\/15.45", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Anna Bjerg - tlf. 23 38 68 05", "UniqueId": "33F66E61-2373-4D3D-B29D-86472B226D30", "UserId": null, "Dato": null, "Navn": "Wivian Haag" }, "geometry": { "type": "Point", "coordinates": [ 12.08552660230262, 55.820170429623708 ] } },
+{ "type": "Feature", "properties": { "Id": 15, "Distrikt": "Frederikssund", "Gruppenavn": "Solen", "Efternavn": "Rasmussen", "Fornavn": "Pia", "Adresse": "Roskildevej 155", "Mobil": "24 79 49 55", "Tider": "6.30 – 16.15\/15.30", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Anna Bjerg - tlf. 23 38 68 05", "UniqueId": "D7B657BE-CF30-4FE8-B362-1FF2FB46D4ED", "UserId": null, "Dato": null, "Navn": "Pia Rasmussen" }, "geometry": { "type": "Point", "coordinates": [ 12.086680358079251, 55.825601152948927 ] } },
+{ "type": "Feature", "properties": { "Id": 16, "Distrikt": "Frederikssund", "Gruppenavn": "Solen", "Efternavn": "Larsen", "Fornavn": "Ea", "Adresse": "Strandgårds Alle 38", "Mobil": "23 38 68 30", "Tider": "7.15 – 17.00\/16.15", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Anna Bjerg - tlf. 23 38 68 05", "UniqueId": "1AD466AF-717A-469D-90CD-90807F215362", "UserId": null, "Dato": null, "Navn": "Ea Larsen" }, "geometry": { "type": "Point", "coordinates": [ 12.071171551309803, 55.822014827806413 ] } },
+{ "type": "Feature", "properties": { "Id": 17, "Distrikt": "Frederikssund", "Gruppenavn": "Solen", "Efternavn": "Hammild", "Fornavn": "Kristina", "Adresse": "Vangedevej 43", "Mobil": "23 38 68 06", "Tider": null, "Kontrakt": "4 Børn", "Tilsynsfoerende": "Anna Bjerg - tlf. 23 38 68 05", "UniqueId": "211975E1-3F75-4333-9F24-040AA5B6930B", "UserId": null, "Dato": null, "Navn": "Kristina Hammild" }, "geometry": { "type": "Point", "coordinates": [ 12.082319462316319, 55.825826630072022 ] } },
+{ "type": "Feature", "properties": { "Id": 18, "Distrikt": "Frederikssund", "Gruppenavn": "Stjernerne", "Efternavn": "Freck", "Fornavn": "Gitte", "Adresse": "Egilsvej 8", "Mobil": "23 38 62 32", "Tider": null, "Kontrakt": "4 Børn", "Tilsynsfoerende": "Anna Bjerg - tlf. 23 38 68 05", "UniqueId": "6EE077F2-86C3-4A2A-ACF2-C61075707AA4", "UserId": null, "Dato": null, "Navn": "Gitte Freck" }, "geometry": { "type": "Point", "coordinates": [ 12.050694190557424, 55.850259723849867 ] } },
+{ "type": "Feature", "properties": { "Id": 19, "Distrikt": "Frederikssund", "Gruppenavn": "Stjernerne", "Efternavn": "Søager", "Fornavn": "Hanne", "Adresse": "Gyvelvej 12", "Mobil": "23 38 68 53", "Tider": "6.45 – 16.30\/15.45", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Anna Bjerg - tlf. 23 38 68 05", "UniqueId": "2C57E6A0-0D20-43A5-8A9C-08D4102E1FB9", "UserId": null, "Dato": null, "Navn": "Hanne Søager" }, "geometry": { "type": "Point", "coordinates": [ 12.048012488395223, 55.847280724277624 ] } },
+{ "type": "Feature", "properties": { "Id": 20, "Distrikt": "Frederikssund", "Gruppenavn": "Stjernerne", "Efternavn": "Kirk Thomsen", "Fornavn": "Tina", "Adresse": "Heimdalsvej 75 St.", "Mobil": "23 38 68 21", "Tider": "6.45 – 16.30\/15.45", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Anna Bjerg - tlf. 23 38 68 05", "UniqueId": "D090A15A-59DC-4295-B567-02F9F920C3FA", "UserId": null, "Dato": null, "Navn": "Tina Kirk Thomsen" }, "geometry": { "type": "Point", "coordinates": [ 12.050542348138393, 55.851618978421335 ] } },
+{ "type": "Feature", "properties": { "Id": 21, "Distrikt": "Frederikssund", "Gruppenavn": "Stjernerne", "Efternavn": "Nielsen", "Fornavn": "Lotte", "Adresse": "Kastanie Alle 28", "Mobil": "23 38 68 60", "Tider": "6.45 – 16.30\/15.45", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Anna Bjerg - tlf. 23 38 68 05", "UniqueId": "FAFE3F3C-BFBB-4BE7-89C3-60315780DE37", "UserId": null, "Dato": null, "Navn": "Lotte Nielsen" }, "geometry": { "type": "Point", "coordinates": [ 12.074080904946225, 55.83536885026966 ] } },
+{ "type": "Feature", "properties": { "Id": 22, "Distrikt": "Frederikssund", "Gruppenavn": "Stjernerne", "Efternavn": "Sørensen", "Fornavn": "Greta", "Adresse": "Skuldsvej 11", "Mobil": "23 38 68 75", "Tider": "6.30 – 16.15\/15.30", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Anna Bjerg - tlf. 23 38 68 05", "UniqueId": "676D2E62-22D6-4C3C-93D6-1486F683E534", "UserId": null, "Dato": null, "Navn": "Greta Sørensen" }, "geometry": { "type": "Point", "coordinates": [ 12.056829287686343, 55.847622687251402 ] } },
+{ "type": "Feature", "properties": { "Id": 23, "Distrikt": "Frederikssund", "Gruppenavn": "Stjernerne", "Efternavn": "Madsen", "Fornavn": "Evy", "Adresse": "Vasevænget 16", "Mobil": "23 38 68 50", "Tider": "6.30 – 16.15\/15.30", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Anna Bjerg - tlf. 23 38 68 05", "UniqueId": "48FF0F5F-6D85-464F-8EF0-091AB4B576C5", "UserId": null, "Dato": null, "Navn": "Evy Madsen" }, "geometry": { "type": "Point", "coordinates": [ 12.081843410972002, 55.833337034660467 ] } },
+{ "type": "Feature", "properties": { "Id": 24, "Distrikt": "Jægerspris", "Gruppenavn": "Honningbierne", "Efternavn": "Olesen", "Fornavn": "Lisbet", "Adresse": "Bakkegaardsvej 7", "Mobil": "24 79 49 13", "Tider": "7.00 – 16.45\/16.00", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Sanne Kristensen - tlf. 51 32 34 18", "UniqueId": "C7F5DD45-5724-4212-9B0A-BD718FED2C7F", "UserId": null, "Dato": null, "Navn": "Lisbet Olesen" }, "geometry": { "type": "Point", "coordinates": [ 11.996683633573149, 55.85395514334337 ] } },
+{ "type": "Feature", "properties": { "Id": 25, "Distrikt": "Jægerspris", "Gruppenavn": "Honningbierne", "Efternavn": "Frederiksen", "Fornavn": "Kirsten", "Adresse": "Bytoften 3", "Mobil": "24 79 48 96", "Tider": "6.30 – 16.15\/15.30", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Sanne Kristensen - tlf. 51 32 34 18", "UniqueId": "FA757021-500B-4101-8CED-870F273D4805", "UserId": null, "Dato": null, "Navn": "Kirsten Frederiksen" }, "geometry": { "type": "Point", "coordinates": [ 11.987788385374033, 55.826115978855903 ] } },
+{ "type": "Feature", "properties": { "Id": 26, "Distrikt": "Jægerspris", "Gruppenavn": "Honningbierne", "Efternavn": "Kristensen", "Fornavn": "Birgit", "Adresse": "Hovedgaden 104", "Mobil": "24 79 48 93", "Tider": "6.30 – 16.15\/15.30", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Sanne Kristensen - tlf. 51 32 34 18", "UniqueId": "C56D54AF-E9E0-4363-A137-33AA723A3AE2", "UserId": null, "Dato": null, "Navn": "Birgit Kristensen" }, "geometry": { "type": "Point", "coordinates": [ 11.997187210230436, 55.854569684668839 ] } },
+{ "type": "Feature", "properties": { "Id": 27, "Distrikt": "Jægerspris", "Gruppenavn": "Honningbierne", "Efternavn": "Paaske", "Fornavn": "Charlotte", "Adresse": "Hovedgaden 108 A", "Mobil": "24 79 49 15", "Tider": "6.45 – 16.30\/15.45", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Sanne Kristensen - tlf. 51 32 34 18", "UniqueId": "DD7686CA-FA6B-42B0-A8D0-877F32FF2462", "UserId": null, "Dato": null, "Navn": "Charlotte Paaske" }, "geometry": { "type": "Point", "coordinates": [ 11.997961885097897, 55.85483185119579 ] } },
+{ "type": "Feature", "properties": { "Id": 28, "Distrikt": "Jægerspris", "Gruppenavn": "Honningbierne", "Efternavn": "Jensen", "Fornavn": "Lene", "Adresse": "Vandværksvej 4", "Mobil": "24 79 48 90", "Tider": "6.30 – 16.15\/15.30", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Sanne Kristensen - tlf. 51 32 34 18", "UniqueId": "12385F12-5B57-40E3-B0BE-250AB533B7D6", "UserId": null, "Dato": null, "Navn": "Lene Jensen" }, "geometry": { "type": "Point", "coordinates": [ 11.987170972478351, 55.825136565987314 ] } },
+{ "type": "Feature", "properties": { "Id": 29, "Distrikt": "Jægerspris", "Gruppenavn": "Mariehønsene", "Efternavn": "Højsgaard", "Fornavn": "Laila", "Adresse": "Beckersvej 7", "Mobil": "24 79 48 98", "Tider": "6.30 – 16.15\/15.30", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Lone Wolfson - tlf. 24 79 49 05", "UniqueId": "9594E803-F103-4CE1-BCBB-18B85C6D08E4", "UserId": null, "Dato": null, "Navn": "Laila Højsgaard" }, "geometry": { "type": "Point", "coordinates": [ 12.00795519775323, 55.817135273892518 ] } },
+{ "type": "Feature", "properties": { "Id": 30, "Distrikt": "Jægerspris", "Gruppenavn": "Mariehønsene", "Efternavn": "Kjær Pedersen", "Fornavn": "Tina", "Adresse": "Blommehaven 6", "Mobil": "24 79 49 21", "Tider": "6.30 – 16.15\/15.30", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Lone Wolfson - tlf. 24 79 49 05", "UniqueId": "B81FC9FB-FCAB-4A36-BD28-43D2B55F47F9", "UserId": null, "Dato": null, "Navn": "Tina Kjær Pedersen" }, "geometry": { "type": "Point", "coordinates": [ 11.99521215872622, 55.848703427432248 ] } },
+{ "type": "Feature", "properties": { "Id": 31, "Distrikt": "Jægerspris", "Gruppenavn": "Mariehønsene", "Efternavn": "Kronborg Larsen", "Fornavn": "Heidi", "Adresse": "Kastanievej 4", "Mobil": "24 79 49 08", "Tider": "7.00 – 16.45\/16.00", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Lone Wolfson - tlf. 24 79 49 05", "UniqueId": "0A5B6FF8-5478-42F8-A5E5-A9B9DE8B5182", "UserId": null, "Dato": null, "Navn": "Heidi Kronborg Larsen" }, "geometry": { "type": "Point", "coordinates": [ 11.987713773931175, 55.850529378458674 ] } },
+{ "type": "Feature", "properties": { "Id": 32, "Distrikt": "Jægerspris", "Gruppenavn": "Mariehønsene", "Efternavn": "Buhl", "Fornavn": "Marianne", "Adresse": "Møllevej 24", "Mobil": "24 79 49 18", "Tider": "6.30 – 16.15\/15.30", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Lone Wolfson - tlf. 24 79 49 05", "UniqueId": "942B87E4-9D9C-4805-9B66-0D51C326F40E", "UserId": null, "Dato": null, "Navn": "Marianne Buhl" }, "geometry": { "type": "Point", "coordinates": [ 11.984837343455622, 55.85223870991355 ] } },
+{ "type": "Feature", "properties": { "Id": 33, "Distrikt": "Jægerspris", "Gruppenavn": "Mariehønsene", "Efternavn": "Ørnbo", "Fornavn": "Helle", "Adresse": "Skibbyvej 16", "Mobil": "24 79 49 22", "Tider": "6.30 – 16.15\/15.30", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Lone Wolfson - tlf. 24 79 49 05", "UniqueId": "567C00D1-AF22-412C-86E6-FA0106E268F5", "UserId": null, "Dato": null, "Navn": "Helle Ørnbo" }, "geometry": { "type": "Point", "coordinates": [ 11.960678027611342, 55.776691438648953 ] } },
+{ "type": "Feature", "properties": { "Id": 34, "Distrikt": "Jægerspris", "Gruppenavn": "Mariehønsene", "Efternavn": "Svarrer", "Fornavn": "Kirsten", "Adresse": "Thyrasvej 46", "Mobil": "24 79 49 05", "Tider": "7.00 – 16.45\/16.00", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Lone Wolfson - tlf. 24 79 49 05", "UniqueId": "C1C1148A-7C5B-48C5-B578-DD00AA85C921", "UserId": null, "Dato": null, "Navn": "Kirsten Svarrer" }, "geometry": { "type": "Point", "coordinates": [ 11.998498520469994, 55.854717293455856 ] } },
+{ "type": "Feature", "properties": { "Id": 35, "Distrikt": "Skibby", "Gruppenavn": "Pandaerne", "Efternavn": "Sachse", "Fornavn": "Ingelill", "Adresse": "Dådyrvej 25", "Mobil": "24 79 50 09", "Tider": "6.30 – 16.15\/15.30", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Birgit Holtegaard Bertelsen - tlf. 23 38 68 00", "UniqueId": "6A09FB24-C88F-4903-92F6-C3F89698C82F", "UserId": null, "Dato": null, "Navn": "Ingelill Sachse" }, "geometry": { "type": "Point", "coordinates": [ 11.968139277648264, 55.743822319669029 ] } },
+{ "type": "Feature", "properties": { "Id": 36, "Distrikt": "Skibby", "Gruppenavn": "Pandaerne", "Efternavn": "Jensen", "Fornavn": "Helle", "Adresse": "Dådyrvej 41", "Mobil": "24 79 49 14", "Tider": "6.30 – 16.15\/15.30", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Birgit Holtegaard Bertelsen - tlf. 23 38 68 00", "UniqueId": "11CA2969-6689-4887-9211-628B064B4BF5", "UserId": null, "Dato": null, "Navn": "Helle Jensen" }, "geometry": { "type": "Point", "coordinates": [ 11.969074352899652, 55.744041395837712 ] } },
+{ "type": "Feature", "properties": { "Id": 37, "Distrikt": "Skibby", "Gruppenavn": "Pandaerne", "Efternavn": "Kjær", "Fornavn": "Mona", "Adresse": "Selsøvej 11", "Mobil": "24 79 49 90", "Tider": "6.30 – 16.15\/15.30", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Birgit Holtegaard Bertelsen - tlf. 23 38 68 00", "UniqueId": "81556460-BF4C-45F5-A7CF-522CD628DDE1", "UserId": null, "Dato": null, "Navn": "Mona Kjær" }, "geometry": { "type": "Point", "coordinates": [ 11.962701454056548, 55.748269552535859 ] } },
+{ "type": "Feature", "properties": { "Id": 38, "Distrikt": "Skibby", "Gruppenavn": "Pandaerne", "Efternavn": "Nielsen", "Fornavn": "Hanne", "Adresse": "Sikavej 48", "Mobil": "24 79 49 95", "Tider": "6.30 – 16.15\/15.30", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Birgit Holtegaard Bertelsen - tlf. 23 38 68 00", "UniqueId": "878E3870-2874-46CA-80E1-CCE399C358F2", "UserId": null, "Dato": null, "Navn": "Hanne Nielsen" }, "geometry": { "type": "Point", "coordinates": [ 11.968882435098068, 55.744581895995069 ] } },
+{ "type": "Feature", "properties": { "Id": 39, "Distrikt": "Skibby", "Gruppenavn": "Pandaerne", "Efternavn": "Aggerholm", "Fornavn": "Vibeke", "Adresse": "Skuldelevvej 14", "Mobil": "24 79 49 78", "Tider": "6.30 – 16.15\/15.30", "Kontrakt": "3 Børn", "Tilsynsfoerende": "Birgit Holtegaard Bertelsen - tlf. 23 38 68 00", "UniqueId": "A8326296-34B6-4E24-8571-93D49D54F5D7", "UserId": null, "Dato": null, "Navn": "Vibeke Aggerholm" }, "geometry": { "type": "Point", "coordinates": [ 11.96244924133631, 55.750931198896168 ] } },
+{ "type": "Feature", "properties": { "Id": 40, "Distrikt": "Skibby", "Gruppenavn": "Pandaerne", "Efternavn": "Frederiksen", "Fornavn": "Heidi", "Adresse": "Plantagevej 8", "Mobil": "24 79 49 82", "Tider": "6.30 – 16.15\/15.30", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Birgit Holtegaard Bertelsen - tlf. 23 38 68 00", "UniqueId": "52CD8DAA-F6CB-4C4E-BDF6-28397ABCABEA", "UserId": null, "Dato": null, "Navn": "Heidi Frederiksen" }, "geometry": { "type": "Point", "coordinates": [ 11.963535322166997, 55.752437066664235 ] } },
+{ "type": "Feature", "properties": { "Id": 41, "Distrikt": "Skibby", "Gruppenavn": "Sommerfuglene", "Efternavn": "Hansen", "Fornavn": "Susanne", "Adresse": "Askevej 12", "Mobil": "24 79 48 89", "Tider": "6.30 – 16.15\/15.30", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Connie Nyegaard - tlf. 29 10 09 54", "UniqueId": "6BA9BB7E-3884-46E4-8E6D-FCB5E614718B", "UserId": null, "Dato": null, "Navn": "Susanne Hansen" }, "geometry": { "type": "Point", "coordinates": [ 12.021519630254792, 55.775408055408889 ] } },
+{ "type": "Feature", "properties": { "Id": 42, "Distrikt": "Skibby", "Gruppenavn": "Sommerfuglene", "Efternavn": "Johansen", "Fornavn": "Jeanette", "Adresse": "Bredager 1", "Mobil": "24 79 49 24", "Tider": "6.30 – 16.15\/15.30", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Connie Nyegaard - tlf. 29 10 09 54", "UniqueId": "14CF3B92-DA6F-4A96-B408-EB837A9BECAC", "UserId": null, "Dato": null, "Navn": "Jeanette Johansen" }, "geometry": { "type": "Point", "coordinates": [ 11.986212616627586, 55.788364843169276 ] } },
+{ "type": "Feature", "properties": { "Id": 43, "Distrikt": "Skibby", "Gruppenavn": "Sommerfuglene", "Efternavn": "Marquatsen", "Fornavn": "Annette", "Adresse": "Ellevej 3", "Mobil": "51 32 34 54", "Tider": "6.30 – 16.15\/15.30", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Connie Nyegaard - tlf. 29 10 09 54", "UniqueId": "337A39A5-8162-46F9-8BDB-F1CD808A91E2", "UserId": null, "Dato": null, "Navn": "Annette Marquatsen" }, "geometry": { "type": "Point", "coordinates": [ 12.022289440893957, 55.776148785034216 ] } },
+{ "type": "Feature", "properties": { "Id": 44, "Distrikt": "Skibby", "Gruppenavn": "Sommerfuglene", "Efternavn": "Sørensen", "Fornavn": "Marianne", "Adresse": "Irisvej 1", "Mobil": "24 79 50 01", "Tider": "6.30 – 16.15\/15.30", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Connie Nyegaard - tlf. 29 10 09 54", "UniqueId": "CC4B2DC8-D19A-451F-83CB-77C15E7BF19F", "UserId": null, "Dato": null, "Navn": "Marianne Sørensen" }, "geometry": { "type": "Point", "coordinates": [ 11.955651497979961, 55.7504658617842 ] } },
+{ "type": "Feature", "properties": { "Id": 45, "Distrikt": "Skibby", "Gruppenavn": "Sommerfuglene", "Efternavn": "Christiansen", "Fornavn": "Janne", "Adresse": "Søndergade 11", "Mobil": "24 79 50 22", "Tider": "6.30 – 16.15\/15.30", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Connie Nyegaard - tlf. 29 10 09 54", "UniqueId": "27F765FE-BC0F-455B-B1D2-AEC2ECEA87EB", "UserId": null, "Dato": null, "Navn": "Janne Christiansen" }, "geometry": { "type": "Point", "coordinates": [ 12.016054011843467, 55.781619093630319 ] } },
+{ "type": "Feature", "properties": { "Id": 46, "Distrikt": "Skibby", "Gruppenavn": "Sommerfuglene", "Efternavn": "Syhler", "Fornavn": "Gitte", "Adresse": "Tværvej 14", "Mobil": "24 79 50 03", "Tider": "6.30 – 16.15\/15.30", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Connie Nyegaard - tlf. 29 10 09 54", "UniqueId": "707E7D50-7E2E-4BE6-A4E1-DC1433A5CFE5", "UserId": null, "Dato": null, "Navn": "Gitte Syhler" }, "geometry": { "type": "Point", "coordinates": [ 11.964546740059257, 55.752457771806831 ] } },
+{ "type": "Feature", "properties": { "Id": 47, "Distrikt": "Skibby", "Gruppenavn": "Sommerfuglene", "Efternavn": "Hansen", "Fornavn": "Helle", "Adresse": "Violvej 18", "Mobil": "24 79 50 10", "Tider": "6.30 – 16.15\/15.30", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Connie Nyegaard - tlf. 29 10 09 54", "UniqueId": "BE858D13-4C8B-47C3-9B3A-F626CB6E90B0", "UserId": null, "Dato": null, "Navn": "Helle Hansen" }, "geometry": { "type": "Point", "coordinates": [ 11.954719167316203, 55.754492032418561 ] } },
+{ "type": "Feature", "properties": { "Id": 48, "Distrikt": "Skibby", "Gruppenavn": "Vaskebjørnene", "Efternavn": "Andersen", "Fornavn": "Maj-Britt", "Adresse": "Dådyrvej 3", "Mobil": "24 79 49 79", "Tider": "6.30 – 16.15\/15.30", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Lone Wolfson - tlf. 24 79 50 05", "UniqueId": "5BE646F7-5C20-4CE2-891E-25B5B5894DF9", "UserId": null, "Dato": null, "Navn": "Maj-Britt Andersen" }, "geometry": { "type": "Point", "coordinates": [ 11.967017194724253, 55.74306479634857 ] } },
+{ "type": "Feature", "properties": { "Id": 49, "Distrikt": "Skibby", "Gruppenavn": "Vaskebjørnene", "Efternavn": "Jacobsen", "Fornavn": "Anne Grethe", "Adresse": "Fagerholtvej 11", "Mobil": "24 79 50 17", "Tider": "6.45 – 16.30\/15.45", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Lone Wolfson - tlf. 24 79 50 05", "UniqueId": "3668E71C-6088-4217-90D1-0642A47ABF57", "UserId": null, "Dato": null, "Navn": "Anne Grethe Jacobsen" }, "geometry": { "type": "Point", "coordinates": [ 11.902410203953814, 55.746794488067771 ] } },
+{ "type": "Feature", "properties": { "Id": 50, "Distrikt": "Skibby", "Gruppenavn": "Vaskebjørnene", "Efternavn": "Pedersen", "Fornavn": "Tine", "Adresse": "Grønnevej 5", "Mobil": "24 79 50 04", "Tider": "6.30 – 16.15\/15.30", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Lone Wolfson - tlf. 24 79 50 05", "UniqueId": "83E81F1E-C8FB-4336-ACEC-BFEB1C55FFF5", "UserId": null, "Dato": null, "Navn": "Tine Pedersen" }, "geometry": { "type": "Point", "coordinates": [ 11.960613680336051, 55.751673917928464 ] } },
+{ "type": "Feature", "properties": { "Id": 51, "Distrikt": "Skibby", "Gruppenavn": "Vaskebjørnene", "Efternavn": "P. Syhler", "Fornavn": "Gitte", "Adresse": "Kærstrædet 28", "Mobil": "24 79 50 14", "Tider": "6.30 – 16.15\/15.30", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Lone Wolfson - tlf. 24 79 50 05", "UniqueId": "3625150D-30F6-4FAF-BB99-8A2B2E7E5044", "UserId": null, "Dato": null, "Navn": "Gitte P. Syhler" }, "geometry": { "type": "Point", "coordinates": [ 11.890989347843794, 55.763916516344494 ] } },
+{ "type": "Feature", "properties": { "Id": 52, "Distrikt": "Skibby", "Gruppenavn": "Vaskebjørnene", "Efternavn": "Larsen", "Fornavn": "Lone", "Adresse": "Selsøvej 23", "Mobil": "24 79 49 93", "Tider": "6.30 – 16.15\/15.30", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Lone Wolfson - tlf. 24 79 50 05", "UniqueId": "19CF5AB0-B5E8-4789-8A6E-E05709014FFD", "UserId": null, "Dato": null, "Navn": "Lone Larsen" }, "geometry": { "type": "Point", "coordinates": [ 11.967109970730087, 55.748928689917989 ] } },
+{ "type": "Feature", "properties": { "Id": 53, "Distrikt": "Skibby", "Gruppenavn": "Vaskebjørnene", "Efternavn": "Marker", "Fornavn": "Sidsel", "Adresse": "Syrenvej 38", "Mobil": "23 38 68 79", "Tider": "7.00 – 16.45\/16.00", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Lone Wolfson - tlf. 24 79 50 05", "UniqueId": "2FD45E17-DF28-488D-955A-AF7AF83F4928", "UserId": null, "Dato": null, "Navn": "Sidsel Marker" }, "geometry": { "type": "Point", "coordinates": [ 11.95623794768778, 55.75421496332482 ] } },
+{ "type": "Feature", "properties": { "Id": 54, "Distrikt": "Slangerup", "Gruppenavn": "Margueritterne", "Efternavn": "Pedersen", "Fornavn": "Grete", "Adresse": "Brantegårdsvej 1", "Mobil": "24 79 49 63", "Tider": "6.45 – 16.30\/15.45", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Eva Louise Rosted - tlf. 23 38 68 35", "UniqueId": "337B1250-DAFE-49CE-A59E-8FC4B8399F69", "UserId": null, "Dato": null, "Navn": "Grete Pedersen" }, "geometry": { "type": "Point", "coordinates": [ 12.168401277712967, 55.853651809394677 ] } },
+{ "type": "Feature", "properties": { "Id": 55, "Distrikt": "Slangerup", "Gruppenavn": "Margueritterne", "Efternavn": "Wilken", "Fornavn": "Vivi Malou", "Adresse": "Hans Atkesvej 4", "Mobil": "24 79 49 33", "Tider": "7.00 – 16.45\/16.00", "Kontrakt": "4 Børn", "Tilsynsfoerende": "Eva Louise Rosted - tlf. 23 38 68 35", "UniqueId": "E8F1AAD6-8E55-49CC-A34B-A044A04920D8", "UserId": null, "Dato": null, "Navn": "Vivi Malou Wilken" }, "geometry": { "type": "Point", "coordinates": [ 12.174643416798128, 55.848847275903992 ] } },
+{
+    "type": "Feature",
+    "properties": {
+        "Id": 56,
+        "Distrikt": "Slangerup",
+        "Gruppenavn": "Margueritterne",
+        "Efternavn": "Odgaard",
+        "Fornavn": "Anna",
+        "Adresse": "Højtoften 3",
+        "Mobil": "24 79 49 66",
+        "Tider": "6.45 – 16.30\/15.45",
+        "Kontrakt": "4 Børn",
+        "Tilsynsfoerende": "Eva Louise Rosted - tlf. 23 38 68 35",
+        "UniqueId": "372ECD28-41D5-449A-8F85-65183C1045C9",
+        "UserId": null,
+        "Dato": null,
+        "Navn": "Anna Odgaard"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [12.170231082919118, 55.85090604822804]
+    }
+}, {
+    "type": "Feature",
+    "properties": {
+        "Id": 57,
+        "Distrikt": "Slangerup",
+        "Gruppenavn": "Margueritterne",
+        "Efternavn": "Daugaard",
+        "Fornavn": "Helle",
+        "Adresse": "Kongshøjparken 14",
+        "Mobil": "24 79 49 59",
+        "Tider": "7.00 – 16.45\/16.00",
+        "Kontrakt": "4 Børn",
+        "Tilsynsfoerende": "Eva Louise Rosted - tlf. 23 38 68 35",
+        "UniqueId": "9F0823F8-D8AE-4AE9-9987-701946AC2FAE",
+        "UserId": null,
+        "Dato": null,
+        "Navn": "Helle Daugaard"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [12.169250030833339, 55.847567603933449]
+    }
+}, {
+    "type": "Feature",
+    "properties": {
+        "Id": 58,
+        "Distrikt": "Slangerup",
+        "Gruppenavn": "Margueritterne",
+        "Efternavn": "Nielsen",
+        "Fornavn": "Heidi",
+        "Adresse": "Lærkevej 16",
+        "Mobil": "24 79 49 56",
+        "Tider": "7.00 – 16.45\/16.00",
+        "Kontrakt": "4 Børn",
+        "Tilsynsfoerende": "Eva Louise Rosted - tlf. 23 38 68 35",
+        "UniqueId": "A4455B76-ECA8-4643-B45F-A05017E7CED9",
+        "UserId": null,
+        "Dato": null,
+        "Navn": "Heidi Nielsen"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [12.165920552734521, 55.844465467343205]
+    }
+}, {
+    "type": "Feature",
+    "properties": {
+        "Id": 59,
+        "Distrikt": "Slangerup",
+        "Gruppenavn": "Morgenfruerne",
+        "Efternavn": "Petersen",
+        "Fornavn": "Lone",
+        "Adresse": "Askøvej, 37",
+        "Mobil": "24 79 49 37",
+        "Tider": "6.45 – 16.30\/15.45",
+        "Kontrakt": "4 Børn",
+        "Tilsynsfoerende": "Connie Nyegaard - tlf. 29 10 09 54",
+        "UniqueId": "BD5943B4-39DB-4EA5-B288-D5498C7CC2F0",
+        "UserId": null,
+        "Dato": null,
+        "Navn": "Lone Petersen"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [12.184534942861186, 55.840469737525424]
+    }
+}, {
+    "type": "Feature",
+    "properties": {
+        "Id": 60,
+        "Distrikt": "Slangerup",
+        "Gruppenavn": "Morgenfruerne",
+        "Efternavn": "Nielsen",
+        "Fornavn": "Hanne",
+        "Adresse": "Engvej 21",
+        "Mobil": "24 79 49 36",
+        "Tider": "6.30 – 16.15\/15.30",
+        "Kontrakt": "4 Børn",
+        "Tilsynsfoerende": "Connie Nyegaard - tlf. 29 10 09 54",
+        "UniqueId": "9E4AD5FC-E18E-4DC7-A540-72F5618E1C64",
+        "UserId": null,
+        "Dato": null,
+        "Navn": "Hanne Nielsen"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [12.1774290438112, 55.8417733083309]
+    }
+}, {
+    "type": "Feature",
+    "properties": {
+        "Id": 61,
+        "Distrikt": "Slangerup",
+        "Gruppenavn": "Morgenfruerne",
+        "Efternavn": "Jahn",
+        "Fornavn": "Danielle",
+        "Adresse": "Hans Atkesvej 6 st.",
+        "Mobil": "24 79 49 76",
+        "Tider": "7.00 – 16.45\/16.00",
+        "Kontrakt": "4 Børn",
+        "Tilsynsfoerende": "Connie Nyegaard - tlf. 29 10 09 54",
+        "UniqueId": "5DCDEB7A-F851-40B1-9C95-A4FBB00B22F5",
+        "UserId": null,
+        "Dato": null,
+        "Navn": "Danielle Jahn"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [12.174622767863607, 55.84912716981939]
+    }
+}, {
+    "type": "Feature",
+    "properties": {
+        "Id": 62,
+        "Distrikt": "Slangerup",
+        "Gruppenavn": "Morgenfruerne",
+        "Efternavn": "Mikkelsen",
+        "Fornavn": "Hanne",
+        "Adresse": "Lindeparken 11",
+        "Mobil": "24 79 49 73",
+        "Tider": "6.45 – 16.30\/15.45",
+        "Kontrakt": "4 Børn",
+        "Tilsynsfoerende": "Connie Nyegaard - tlf. 29 10 09 54",
+        "UniqueId": "CED55CD6-B48C-4C11-8B0B-FCF569AE5729",
+        "UserId": null,
+        "Dato": null,
+        "Navn": "Hanne Mikkelsen"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [12.179359383038225, 55.836556469252663]
+    }
+}, {
+    "type": "Feature",
+    "properties": {
+        "Id": 63,
+        "Distrikt": "Slangerup",
+        "Gruppenavn": "Morgenfruerne",
+        "Efternavn": "Eliesen",
+        "Fornavn": "Birte",
+        "Adresse": "Sl. Overdrev 3",
+        "Mobil": "24 79 49 42",
+        "Tider": "6.30 – 16.15\/15.30",
+        "Kontrakt": "4 Børn",
+        "Tilsynsfoerende": "Connie Nyegaard - tlf. 29 10 09 54",
+        "UniqueId": "1DC02D01-3D8C-4332-A415-C43A48213FB7",
+        "UserId": null,
+        "Dato": null,
+        "Navn": "Birte Eliesen"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [12.203224805208693, 55.849303898871177]
+    }
+}, {
+    "type": "Feature",
+    "properties": {
+        "Id": 64,
+        "Distrikt": "Slangerup",
+        "Gruppenavn": "Solsikkerne",
+        "Efternavn": "Andersson",
+        "Fornavn": "Berit",
+        "Adresse": "Fasanvej 10",
+        "Mobil": "24 79 49 41",
+        "Tider": "6.30 – 16.15\/15.30",
+        "Kontrakt": "4 Børn",
+        "Tilsynsfoerende": "Eva Louise Rosted - tlf. 23 38 68 35",
+        "UniqueId": "C25A6687-AE51-461E-A6DC-002ECE39D455",
+        "UserId": null,
+        "Dato": null,
+        "Navn": "Berit Andersson"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [12.162297135827746, 55.845679400905979]
+    }
+}, {
+    "type": "Feature",
+    "properties": {
+        "Id": 65,
+        "Distrikt": "Slangerup",
+        "Gruppenavn": "Solsikkerne",
+        "Efternavn": "Simonsen",
+        "Fornavn": "Lone",
+        "Adresse": "Mosebuen 3",
+        "Mobil": "24 79 49 34",
+        "Tider": "6.30 – 16.15\/15.30",
+        "Kontrakt": "4 Børn",
+        "Tilsynsfoerende": "Eva Louise Rosted - tlf. 23 38 68 35",
+        "UniqueId": "617E5A54-17D4-490A-8D03-A61F6F234224",
+        "UserId": null,
+        "Dato": null,
+        "Navn": "Lone Simonsen"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [12.191898485323339, 55.843593806815036]
+    }
+}, {
+    "type": "Feature",
+    "properties": {
+        "Id": 66,
+        "Distrikt": "Slangerup",
+        "Gruppenavn": "Solsikkerne",
+        "Efternavn": "Aamann Horn",
+        "Fornavn": "Ninna",
+        "Adresse": "Spurvevej 5",
+        "Mobil": "24 79 49 45",
+        "Tider": "6.45 – 16.30\/15.45",
+        "Kontrakt": "4 Børn",
+        "Tilsynsfoerende": "Eva Louise Rosted - tlf. 23 38 68 35",
+        "UniqueId": "2750B6C9-AC60-4E5D-BD70-E182C85DBABE",
+        "UserId": null,
+        "Dato": null,
+        "Navn": "Ninna Aamann Horn"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [12.166127642496781, 55.846560637028368]
+    }
+}, {
+    "type": "Feature",
+    "properties": {
+        "Id": 67,
+        "Distrikt": "Slangerup",
+        "Gruppenavn": "Solsikkerne",
+        "Efternavn": "Baltzersen",
+        "Fornavn": "Sanne ",
+        "Adresse": "Øvej 1 A",
+        "Mobil": "24 79 49 53",
+        "Tider": "6.30 – 16.15\/15.30",
+        "Kontrakt": "4 Børn",
+        "Tilsynsfoerende": "Eva Louise Rosted - tlf. 23 38 68 35",
+        "UniqueId": "48433617-A87B-4B25-B81B-D63855CF6603",
+        "UserId": null,
+        "Dato": null,
+        "Navn": "Sanne  Baltzersen"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [12.178256799263766, 55.844384899049629]
+    }
+}
+]
+}

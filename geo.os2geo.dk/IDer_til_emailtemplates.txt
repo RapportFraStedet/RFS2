@@ -1,0 +1,38 @@
+
+
+
+Indsamling af ID'er til emailtemplates
+
+
+
+SKABELON SKABELON SKABELON
+
+Indsamling af ID'er til emailtemplates
+
+
+link til thumbnailbillede
+<img src="http://geo.os2geo.dk/couchdb/[database ID]/<%= doc._id %>/tn_Billed1">
+
+
+link til original billede
+<img src="http://geo.os2geo.dk/couchdb/[database ID]/<%= doc._id %>/Billed1">
+
+
+link til Unik ID til borger:
+[LINK TIL ONLINE APP]
+?layer=
+[LAGETS ID I BRUGERFLADEN]
+&id=<%= doc._id %>
+
+
+link til Unik ID til sagsbehandler:
+[LINK TIL ONLINE APP]
+?layer=
+[LAGETS ID I BRUGERFLADEN]
+&id<=%= doc._id %>
+
+
+
+
+
+

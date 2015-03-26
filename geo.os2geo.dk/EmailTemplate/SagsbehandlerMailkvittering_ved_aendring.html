@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+<link href="typography2015-Anette.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+<h1>Der er kommet en ny indrapportering</h1>
+
+<p>Klik på linket for at administrere indrapporteringen: <br>
+<p><a href="http://geo.os2geo.dk/couchdb/app-d2121ee08caf832b73a160f9ea022ad9/_design/app2/web/index2.html#/organizations/d2121ee08caf832b73a160f9ea0024ff/7329765f31b7939dc2b457f4831208ce/menu?layer=ac3d5b62ebb8d7ce847c609711109bf3&id=<%= doc._id %>" target="_blank" >Åben indrapportering</a> </p>
+</p>
+
+<h2>Der er indrapporteret følgende:</h2>
+
+<table width="500" border="0">
+  <tr>
+    <td class="maintable"><h3>Emne</h3></td>
+    <td class="maintable"><%= doc.properties.Emne %></td>
+  </tr>
+  <tr>
+    <td class="maintable"><h3>Art</h3></td>
+    <td class="maintable"><%= doc.properties.Art %></td>
+  </tr>
+  <tr>
+    <td width="120" class="maintable"><h3>Kommentar</h3></td>
+    <td width="370" class="maintable"><%= doc.properties.Kommentar %></td>
+  </tr>
+  <tr>
+    <td width="120" class="maintable"><h3>Billede</h3></td>
+    <td width="370" class="maintable"><img src="http://geo.os2geo.dk/couchdb/db-ac3d5b62ebb8d7ce847c60971109cd56/<%= doc._id %>/Billed1" width="200"></td>
+  </tr>
+ <tr>
+    <td class="maintable"><h3>Status</h3></td>
+    <td class="maintable"><%= doc.properties.Status %></td>
+  </tr>
+  <tr>
+    <td class="maintable"><h3>Email</h3></td>
+    <td class="maintable"><%= doc.properties.Email %></td>
+  </tr>
+  <tr>
+    <td class="maintable"><h3>Tidsstempel</h3></td>
+    <td class="maintable"><%= doc.properties.Dato %></td>
+  </tr>
+</table>
+
+<p>Venlig hilsen</p>
+<h4>GIS-teamet <br />
+</h4>
+<h5>Rådhuset, Torvet 2<br />
+3600 Frederikssund</h5>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>

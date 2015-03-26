@@ -1,0 +1,69 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+<link href="typography2015-Anette.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+<h1>Mange tak for din indrapportering</h1>
+
+<p>Vi vil undersøge dit praj hurtigst muligt.
+Bemærk at der er forskel på, hvor hurtigt de forskellige typer af indrapporteringer bliver løst.
+Vi vil bestræbe os på at udføre din indrapportering så hurtigt som muligt, typisk inden for 1 – 2 uger. I nogle tilfælde kan det tage op til flere uger.
+Ved fare for personskade vil indrapporteringen udbedres hurtigst muligt.</p>
+
+<p>Status er nu: <%= doc.properties.Status %>
+</p>
+
+
+<h2>Sådan tjekker du status</h2>
+<p>Via linket kan du altid se den aktuelle status for din henvendelse ved at klikke på punktet i kortet: <br>
+<p><a href="http://geo.os2geo.dk/couchdb/app-d2121ee08caf832b73a160f9ea022ad9/_design/app2/web/index2.html#/organizations/d2121ee08caf832b73a160f9ea0024ff/7329765f31b7939dc2b457f48309ffe6/menu?layer=7329765f31b7939dc2b457f4830b6d49&id=<%= doc._id %>" target="_blank" >Åben kortet</a> </p>
+</p>
+
+<p>Din indrapportering vil være synlig på kortet i op til tre måneder fra den blev foretaget.</p>
+
+<h2>Du har indrapporteret følgende:</h2>
+
+<table width="500" border="0">
+  <tr>
+    <td class="maintable"><h3>Emne</h3></td>
+    <td class="maintable"><%= doc.properties.Emne %></td>
+  </tr>
+  <tr>
+    <td class="maintable"><h3>Type</h3></td>
+    <td class="maintable"><%= doc.properties.Art %></td>
+  </tr>
+  <tr>
+    <td width="120" class="maintable"><h3>Kommentar</h3></td>
+    <td width="370" class="maintable"><%= doc.properties.Kommentar %></td>
+  </tr>
+  <tr>
+    <td width="120" class="maintable"><h3>Billede</h3></td>
+    <td width="370" class="maintable"><img src="http://geo.os2geo.dk/couchdb/db-ac3d5b62ebb8d7ce847c60971109cd56/<%= doc._id %>/Billed1" width="200"></td>
+  </tr>
+  <tr>
+    <td class="maintable"><h3>Email</h3></td>
+    <td class="maintable"><%= doc.properties.Email %></td>
+  </tr>
+  <tr>
+    <td class="maintable"><h3>Tidsstempel</h3></td>
+    <td class="maintable"><%= doc.properties.Dato %></td>
+  </tr>
+</table>
+
+<p>Mange tak for dit praj</p>
+ 
+
+<p>Venlig hilsen</p>
+<h4>GIS-teamet <br />
+</h4>
+<h5>Rådhuset, Torvet 2<br />
+3600 Frederikssund</h5>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>
